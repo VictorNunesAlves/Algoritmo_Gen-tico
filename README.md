@@ -1,1 +1,1 @@
-# Algoritmo_Gen-tico
+# Algoritmo_Genético
